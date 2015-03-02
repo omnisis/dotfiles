@@ -1,4 +1,4 @@
 ## My Dotfiles
-Dotfiles for my preferred Linux/MacOSX setup
+Dotfiles for my preferred Linux/MacOSX setup.
 
 
